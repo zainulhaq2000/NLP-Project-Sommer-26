@@ -1,0 +1,11 @@
+.venv/
+.venv-gpu/
+
+__pycache__/
+*.pyc
+
+.idea/
+.cache/
+huggingface/
+
+results/

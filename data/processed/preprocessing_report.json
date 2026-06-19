@@ -1,0 +1,28 @@
+{
+  "train": {
+    "n_rows": 2280,
+    "n_unique_homonyms": 220,
+    "n_unique_sample_ids": 2280,
+    "n_rows_with_ending": 1520,
+    "n_rows_without_ending": 760,
+    "average_min": 1.0,
+    "average_max": 5.0,
+    "average_mean": 3.140029239766082,
+    "stdev_min": 0.0,
+    "stdev_max": 2.1908902300206643,
+    "stdev_mean": 0.9482893987059045
+  },
+  "dev": {
+    "n_rows": 588,
+    "n_unique_homonyms": 55,
+    "n_unique_sample_ids": 588,
+    "n_rows_with_ending": 392,
+    "n_rows_without_ending": 196,
+    "average_min": 1.0,
+    "average_max": 5.0,
+    "average_mean": 3.1182539682539683,
+    "stdev_min": 0.0,
+    "stdev_max": 2.1908902300206643,
+    "stdev_mean": 0.9494758087294406
+  }
+}
